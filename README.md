@@ -1,1 +1,1 @@
-Project Link via Netlify: https://dakspizza.netlify.app/
+Project Link via Netlify: https://daksazzip.netlify.app/
